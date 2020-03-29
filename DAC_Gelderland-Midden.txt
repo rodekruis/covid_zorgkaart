@@ -1,0 +1,146 @@
+"place";"services";"name";"location";"lat-lon"
+Arnhem;Neurochirurg;Grotenhuis, J.A. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494;Grotenhuis, J.A. - Radboudumc, hoofdlocatie;Radboudumc, hoofdlocatie, Nijmegen;51.8237149,5.8599737
+Arnhem;Psycholoog;Oomen, L.C.P. - Mindfit, Basis GGZ, Kring Arnhem;Mindfit, Basis GGZ, Kring Arnhem, Arnhem;51.953977,5.872545
+Arnhem;Maag-Darm-Leverarts;Hirsch, D.P. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Psycholoog;Leijzer-Vis, A.D. - Mindfit, Basis GGZ, Kring Arnhem;Mindfit, Basis GGZ, Kring Arnhem, Arnhem;51.953977,5.872545
+Arnhem;Chirurg;Smeets, L. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Basisarts;Sival, M.L.C. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Huisarts;Kok, D.J.M. - Huisartsenpraktijk De Blauwe Jachthoorn, Praktijk Kok en Koster;Huisartsenpraktijk De Blauwe Jachthoorn, Praktijk Kok en Koster, Arnhem;51.9915139,5.8816222
+Arnhem;Radiotherapeut;Steen-Banasik, E.M. van der - Radiotherapiegroep, locatie Arnhem;Radiotherapiegroep, locatie Arnhem, Arnhem;52.0014465,5.9081484;Steen-Banasik, E.M. van der - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Verloskundige;Poorterman, C.W. - Groepspraktijk van Verloskundigen;Groepspraktijk van Verloskundigen, Arnhem;51.9889208,5.8960999
+Arnhem;Mondhygiënist;Zijm, M. - Praktijk voor Parodontologie en Implantologie Arnhem;Praktijk voor Parodontologie en Implantologie Arnhem, Arnhem;52.0023741,5.909395
+Arnhem;Chirurg;Spillenaar Bilgen, E.J. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Tandarts;Weidema, F.J. - Tandartspraktijk F.J. Weidema;Tandartspraktijk F.J. Weidema, Arnhem;51.9949585,5.9472738
+Arnhem;Gynaecoloog;Hullu, J.A. de - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494;Hullu, J.A. de - Radboudumc, hoofdlocatie;Radboudumc, hoofdlocatie, Nijmegen;51.8237149,5.8599737
+Arnhem;Fysiotherapeut;Jongerius, S. - Een werkend lijf, locatie St. Elisabethshof;Een werkend lijf, locatie St. Elisabethshof, Arnhem;51.98486,5.8860324;Jongerius, S. - Een werkend lijf, locatie Malden;Een werkend lijf, locatie Malden, Malden;51.781195,5.8528726
+Arnhem;Huidtherapeut;Wijnen, C. - Huidpraktijk Arnhem;Huidpraktijk Arnhem, Arnhem;51.9916618,5.8896605
+Arnhem;Radiotherapeut;Westenberg, A.H. - Radiotherapiegroep, locatie Arnhem;Radiotherapiegroep, locatie Arnhem, Arnhem;52.0014465,5.9081484;Westenberg, A.H. - Radiotherapiegroep, locatie Ede;Radiotherapiegroep, locatie Ede, Ede;52.021128,5.645601
+Arnhem;Psycholoog;Schrijner, S.J.M. - GGz Praktijk;GGz Praktijk, Arnhem;51.9820391,5.9023915
+Arnhem;Radioloog;Martens, J.M. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Psychiater;Stoops, J.M. - Pro Persona, regio Arnhem, Volwassenen;Pro Persona, regio Arnhem, Volwassenen, Arnhem;51.9982509,5.9087575
+Arnhem;Radiotherapeut;Reinders, J.G. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Neuroloog;Mostert, J.P. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Tandarts;Swinkels, A. - Praktijk voor Parodontologie en Implantologie Arnhem;Praktijk voor Parodontologie en Implantologie Arnhem, Arnhem;52.0023741,5.909395
+Arnhem;Huisarts;Nooteboom, S. - Huisartsenpraktijk Bredasingel;Huisartsenpraktijk Bredasingel, Arnhem;51.950924,5.8633993
+Arnhem;Anesthesioloog;Thewissen, W.G.M. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Huisarts;El Ghouch, E. - Huisartsenpraktijk Medius;Huisartsenpraktijk Medius, Arnhem;51.9663585,5.9116261
+Arnhem;Huisarts;Hart, M. - Huisartsenpraktijk M. Hart;Huisartsenpraktijk M. Hart, Arnhem;51.9915139,5.8816222
+Arnhem;KNO-arts;Verhagen, C.V.M. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Cardioloog;Pisters, R. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Podotherapeut;Mouchart, M. - Podotherapie Mouchart, Arnhem Noord;Podotherapie Mouchart, Arnhem Noord, Arnhem;51.9883039,5.8899287;Mouchart, M. - Podotherapie Mouchart, Arnhem Presikhaaf;Podotherapie Mouchart, Arnhem Presikhaaf, Arnhem;51.98091,5.9459527
+Arnhem;Klinisch psycholoog;Graaf, P.M. van der - Psychologenpraktijk Arnhem-Zuid e.o.;Psychologenpraktijk Arnhem-Zuid e.o., Arnhem;51.9874787,5.8944657
+Arnhem;Bedrijfsarts;Konecny, L. - ArboNed Arnhem;ArboNed Arnhem, Arnhem;51.9545578,5.869921
+Arnhem;Fysiotherapeut;Bakker, J.A. - Therapeuticum Aquamarijn, Fysiotherapie;Therapeuticum Aquamarijn, Fysiotherapie, Arnhem;51.9899547,5.9170689
+Arnhem;Logopedist;Berends, M. - Logopedie Poolman en Smal, vestiging Arnhem;Logopedie Poolman en Smal, vestiging Arnhem, Arnhem;52.0001501,5.9439129;Berends, M. - Logopedie Poolman en Smal, vestiging Doorwerth;Logopedie Poolman en Smal, vestiging Doorwerth, Doorwerth;51.9800701,5.7974513
+Arnhem;Ergotherapeut;Bod-Rutten, M.D.L. - Ergotherapie Sadik;Ergotherapie Sadik, Arnhem;52.0027716,5.9411253
+Arnhem;Psycholoog;Boven, I.A.M. van - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494;Boven, I.A.M. van - Zorggroep Apeldoorn en omstreken, Winkewijert, Geriatrisch Revalidatie- en Herstelcentrum Oost-Veluwe;Zorggroep Apeldoorn en omstreken, Winkewijert, Geriatrisch Revalidatie- en Herstelcentrum Oost-Veluwe, Apeldoorn;52.18002,5.949011
+Arnhem;Psychiater;Bruin, J. de - IrisZorg, opvang, wonen en begeleiding Arnhem;IrisZorg, opvang, wonen en begeleiding Arnhem, Arnhem;51.9763179,5.9159313
+Arnhem;Fysiotherapeut;Damen, M.H. - Fysiotherapie en Manuele Therapie Velperweg;Fysiotherapie en Manuele Therapie Velperweg, Arnhem;51.9894849,5.9369388
+Arnhem;Psycholoog;Dockum, M.F. van - Karakter, locatie Arnhem;Karakter, locatie Arnhem, Arnhem;51.9784921,5.9745158
+Arnhem;Huidtherapeut;Ellenbroek, A. - Triaderm Arnhem;Triaderm Arnhem, Arnhem;51.9795138,5.9163252;Ellenbroek, A. - Triaderm Utrecht;Triaderm Utrecht, Utrecht;52.1010584,5.1315984
+Arnhem;Huidtherapeut;Fontijn-Schijf, P.E. - Fontijn-Schijf;Fontijn-Schijf, Arnhem;51.9507744,5.9132477
+Arnhem;Psycholoog;Geleijns, C.E. - Rijnstate Arnhem;Rijnstate Arnhem, Arnhem;52.0009012,5.9098494
+Arnhem;Fysiotherapeut;Groot, L.W.M. de - Therapeuticum Aquamarijn, Fysiotherapie;Therapeuticum Aquamarijn, Fysiotherapie, Arnhem;51.9899547,5.9170689
+Arnhem;Fysiotherapeut;Henao Parra, W. - Fysio Donders;Fysio Donders, Arnhem;51.9849348,5.9221936
+Arnhem;Fysiotherapeut;Horst, L.H. ter - Fysiotherapie Musis;Fysiotherapie Musis, Arnhem;51.9831243,5.9139379
+Arnhem;Fysiotherapeut;Kempers, I.C.M. - Fysiotherapie van Gilst, Kromwijkplaats;Fysiotherapie van Gilst, Kromwijkplaats, Arnhem;51.9582614,5.8560113;Kempers, I.C.M. - Fysiotherapie van Gilst, Aduardstraat;Fysiotherapie van Gilst, Aduardstraat, Arnhem;51.9530662,5.8980125
+Arnhem;Logopedist;Kocken, J.E.M. - Logopedie Praktijk Kocken;Logopedie Praktijk Kocken, Arnhem;51.9493081,5.8845725
+Arnhem;Mondhygiënist;Labots-van der Sluis, N.P. - Mondhygiënistenpraktijk Arnhem;Mondhygiënistenpraktijk Arnhem, Arnhem;51.9961067,5.8812359
+Arnhem;Fysiotherapeut;Lenstra, P. - FysioDynamiek, Gezondheidscentrum Rijkerswoerd;FysioDynamiek, Gezondheidscentrum Rijkerswoerd, Arnhem;51.9415999,5.8942485
+Arnhem;Huidtherapeut;Luttikholt, M.M. - Huidtotaal, locatie Arnhem;Huidtotaal, locatie Arnhem, Arnhem;51.9555814,5.8652818;Luttikholt, M.M. - Huidtotaal, locatie Doetinchem;Huidtotaal, locatie Doetinchem, Doetinchem;51.9720681,6.2688101
+Arnhem;Apotheker;Messing, J.H. - Apotheek Het Dorp;Apotheek Het Dorp, Arnhem;51.9915983,5.882482
+Arnhem;Tandarts;Neergaard, K.E. - Welkom, Praktijk voor Tandheelkunde;Welkom, Praktijk voor Tandheelkunde, Arnhem;51.9897722,5.939329
+Arnhem;Apotheker;Okhonmina, K. - Apotheek Malburgen Arnhem;Apotheek Malburgen Arnhem, Arnhem;51.9668957,5.9107536;Okhonmina, K. - Regenboog Apotheek Hoogvliet;Regenboog Apotheek Hoogvliet, Hoogvliet;51.8680255,4.3534179
+Arnhem;Mondhygiënist;Pater, Y. - Mondhygiënistenpraktijk Arnhem;Mondhygiënistenpraktijk Arnhem, Arnhem;51.9961067,5.8812359
+Arnhem;Logopedist;Ploumen, M.F.M.C. - Logopedie Malburgen, Zuringstraat;Logopedie Malburgen, Zuringstraat, Arnhem;51.9664975,5.9180541;Ploumen, M.F.M.C. - Logopedie Malburgen, Lupinestraat;Logopedie Malburgen, Lupinestraat, Arnhem;51.9682558,5.8974389
+Arnhem;Huisarts;Ravenshorst, K.A.B. - Huisartsenpraktijk Linders;Huisartsenpraktijk Linders, Arnhem;52.0001229,5.9439708
+Arnhem;Fysiotherapeut;Roodink, A. - Kinderfysiotherapie Daanen Derksen;Kinderfysiotherapie Daanen Derksen, Arnhem;51.9884498,5.8775456
+Arnhem;Fysiotherapeut;Schepers- de Roo, M.J. - Arnhem Noord Fysiotherapie;Arnhem Noord Fysiotherapie, Arnhem;51.9916618,5.8896605
+Arnhem;Logopedist;Sessink-Pot, N. - Logopediepraktijk de Praatmaat Arnhem 1;Logopediepraktijk de Praatmaat Arnhem 1, Arnhem;51.9884498,5.8775456
+Arnhem;Fysiotherapeut;Steunenberg, M.G. - Fysio Donders;Fysio Donders, Arnhem;51.9849348,5.9221936
+Arnhem;Oefentherapeut;Toebes, R. - Oefentherapie Velperweg;Oefentherapie Velperweg, Arnhem;51.9886557,5.932595
+Arnhem;Psycholoog;Verbraak-Ekelschot, M.A. - HSK Arnhem;HSK Arnhem, Arnhem;51.9853945,5.9239759
+Arnhem;Revalidatiearts;Voet, N.B.M. - Klimmendaal, locatie Heijenoordseweg;Klimmendaal, locatie Heijenoordseweg, Arnhem;51.9909703,5.8779035
+Arnhem;Jeugdarts;Walsemann, C.M. - Veiligheids- en Gezondheidsregio Gelderland-Midden;Veiligheids- en Gezondheidsregio Gelderland-Midden, Arnhem;51.9779499,5.916039
+Arnhem;Oefentherapeut;Willems, L. - Oefentherapie Cesar Arnhem Noord;Oefentherapie Cesar Arnhem Noord, Arnhem;51.987917,5.9201409;Willems, L. - Oefentherapie Elst;Oefentherapie Elst, Elst;51.9185193,5.8480403
+Arnhem;Basispsycholoog;Zwerts, C. - Regionaal Instituut voor Dyslexie (RID);Regionaal Instituut voor Dyslexie (RID), Arnhem;51.9840324,5.9069562
+Barneveld;Fysiotherapeut;Warning, E.K. - Centrum Evers manuele en fysiotherapie, locatie Medisch centrum De Burgt;Centrum Evers manuele en fysiotherapie, locatie Medisch centrum De Burgt, Barneveld;52.127195,5.5802644;Warning, E.K. - Centrum Evers manuele en fysiotherapie, locatie Asklepios;Centrum Evers manuele en fysiotherapie, locatie Asklepios, Barneveld;52.142196,5.5840166
+Barneveld;Fysiotherapeut;Zadelhoff, D.S.N. van - Centrum Evers manuele en fysiotherapie, locatie Asklepios;Centrum Evers manuele en fysiotherapie, locatie Asklepios, Barneveld;52.142196,5.5840166;Zadelhoff, D.S.N. van - Centrum Evers manuele en fysiotherapie, locatie Zuylen van Nieveltlaan;Centrum Evers manuele en fysiotherapie, locatie Zuylen van Nieveltlaan, Barneveld;52.1402007,5.5925027
+Barneveld;Tandarts;Mentz, M.M. - Tandartsenpraktijk Vermeulen, Praktijk Barneveld;Tandartsenpraktijk Vermeulen, Praktijk Barneveld, Barneveld;52.1285976,5.5683159;Mentz, M.M. - Tandartsenpraktijk Vermeulen, Praktijk Voorthuizen;Tandartsenpraktijk Vermeulen, Praktijk Voorthuizen, Voorthuizen;52.186689,5.6099547
+Barneveld;Psychiater;Kramer, B.L.I.A.M. - GGz Centraal, locatie Barneveld;GGz Centraal, locatie Barneveld, Barneveld;52.1367651,5.5885485
+Barneveld;Fysiotherapeut;Bruijn, J.R. de - Medifit Fysiotherapie & Revalidatie, locatie Barneveld;Medifit Fysiotherapie & Revalidatie, locatie Barneveld, Barneveld;52.1501623,5.5813418;Bruijn, J.R. de - Medifit Fysiotherapie & Revalidatie, locatie Voorthuizen;Medifit Fysiotherapie & Revalidatie, locatie Voorthuizen, Voorthuizen;52.1857083,5.6085761
+Barneveld;Fysiotherapeut;Gorte-Slot, H.J. - Gorte Osteopathie;Gorte Osteopathie, Barneveld;52.1472783,5.5839273
+Barneveld;Fysiotherapeut;Jen Hong Li, M.W.G. - Kinderfysiotherapie Barneveld, locatie Nederwoudseweg;Kinderfysiotherapie Barneveld, locatie Nederwoudseweg, Barneveld;52.1236603,5.5769118;Jen Hong Li, M.W.G. - Kinderfysiotherapie Barneveld, locatie Nieuwe Markt;Kinderfysiotherapie Barneveld, locatie Nieuwe Markt, Barneveld;52.1413737,5.5836091
+Barneveld;Tandarts;Paul, A. - Tandartsenpraktijk Vermeulen, Praktijk Barneveld;Tandartsenpraktijk Vermeulen, Praktijk Barneveld, Barneveld;52.1285976,5.5683159;Paul, A. - Tandartsenpraktijk Vermeulen, Praktijk Voorthuizen;Tandartsenpraktijk Vermeulen, Praktijk Voorthuizen, Voorthuizen;52.186689,5.6099547
+Barneveld;Tandarts;Xi, T. - Tandartsenpraktijk Vermeulen, Praktijk Barneveld;Tandartsenpraktijk Vermeulen, Praktijk Barneveld, Barneveld;52.1285976,5.5683159;Xi, T. - Radboudumc, hoofdlocatie;Radboudumc, hoofdlocatie, Nijmegen;51.8237149,5.8599737
+Doesburg;Tandarts;Bürkel, C. - Praktijk voor Mondzorg Veerpoortwal;Praktijk voor Mondzorg Veerpoortwal, Doesburg;52.0133421,6.1314597
+Doesburg;Fysiotherapeut;Kooij, J. van der - Fysiotherapie Ruesink, locatie Doesburg, Leigraafseweg;Fysiotherapie Ruesink, locatie Doesburg, Leigraafseweg, Doesburg;52.0024396,6.1366709;Kooij, J. van der - Fysiotherapie Ruesink, locatie Ellecom;Fysiotherapie Ruesink, locatie Ellecom, Ellecom;52.0300383,6.0866301
+Doesburg;Fysiotherapeut;Werdmölder-Kreijtz, B.E.E. - Kinderfysiotherapie Doesburg;Kinderfysiotherapie Doesburg, Doesburg;52.0090801,6.1330746;Werdmölder-Kreijtz, B.E.E. - Praktijk voor fysiotherapie, manuele therapie en kinderfysiotherapie;Praktijk voor fysiotherapie, manuele therapie en kinderfysiotherapie, Steenderen;52.064624,6.1808943
+Doesburg;Fysiotherapeut;Zwiggelaar, J.T. - PlusFit, Fitness en Fysiotherapie;PlusFit, Fitness en Fysiotherapie, Doesburg;52.0108027,6.1362749
+Duiven;Verloskundige;Bosman, R.J.B. - Verloskundigenpraktijk Duiven/Westervoort;Verloskundigenpraktijk Duiven/Westervoort, Duiven;51.944412,6.0087144
+Duiven;Apotheker;Geest-Hoppenbrouwers, A.E.C. van der - Apotheek Duiven;Apotheek Duiven, Duiven;51.9579515,6.0203413
+Duiven;Diëtist;Langedijk, M.C.M. - Diëtistenpraktijk M.C.M. Langedijk, locatie Cornetstraat;Diëtistenpraktijk M.C.M. Langedijk, locatie Cornetstraat, Duiven;51.9422824,6.0000315;Langedijk, M.C.M. - Diëtistenpraktijk M.C.M. Langedijk, locatie Zonegge;Diëtistenpraktijk M.C.M. Langedijk, locatie Zonegge, Zevenaar;51.9349188,6.0674025
+Duiven;Diëtist;Stinesen-Lucassen, C.J.J.M. - Eet je fit;Eet je fit, Duiven;51.9410227,6.0020067
+Duiven;Huidtherapeut;Zweers, D. - Dermaflow, Huid- en Oedeemtherapie;Dermaflow, Huid- en Oedeemtherapie, Duiven;51.93759,6.032274
+Ede;Tandarts;Raayen, S. - Demirel Tandartsenpraktijk, Tandkliniek Hooghe Hoed;Demirel Tandartsenpraktijk, Tandkliniek Hooghe Hoed, Ede;52.0461716,5.6668655
+Ede;KNO-arts;Boek, W.M. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485;Boek, W.M. - Gelderse Vallei Vivre;Gelderse Vallei Vivre, Ede;52.0219332,5.6464392
+Ede;Kaakchirurg;Bolouri-de Kruijf, S. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485;Bolouri-de Kruijf, S. - Ziekenhuis Rivierenland;Ziekenhuis Rivierenland, Tiel;51.8894264,5.4150467
+Ede;Kaakchirurg;Lange, M.O. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485;Lange, M.O. - Ziekenhuis Rivierenland;Ziekenhuis Rivierenland, Tiel;51.8894264,5.4150467
+Ede;Revalidatiearts;Geesken, J.M. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485;Geesken, J.M. - Klimmendaal, locatie Ziekenhuis Gelderse Vallei;Klimmendaal, locatie Ziekenhuis Gelderse Vallei, Ede;52.021128,5.645601
+Ede;Gynaecoloog;Spaargaren, M.C. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Klinisch psycholoog;Lehnecke, K.M. - Psychotherapie Lehnecke;Psychotherapie Lehnecke, Ede;52.042589,5.6885006
+Ede;Orthopeed;Wal, W.A. van der - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Tandarts;Kolkert, W.J. - Tandarts Ede;Tandarts Ede, Ede;52.0431952,5.6724855;Kolkert, W.J. - Avondortho;Avondortho, Amsterdam;52.3653207,4.8668939
+Ede;Orthopeed;Kapitein, P.J.C. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Dermatoloog;Jong-Tieben, L.M. de - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Longarts;Wilschut, F.A. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Huisarts;Haan, I.B. - Huisartsenpraktijk Medisch Centrum Maandereng;Huisartsenpraktijk Medisch Centrum Maandereng, Ede;52.0190773,5.6536496
+Ede;Tandarts;Aouaj, H. - Ede Mondzorg;Ede Mondzorg, Ede;52.0212378,5.6663034
+Ede;Chirurg;Sybrandy, J.E.M. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Verloskundige;Backer, T.G.J. de - Verloskundige en lactatiekundige praktijk Tineke De Backer;Verloskundige en lactatiekundige praktijk Tineke De Backer, Ede;52.0477929,5.6666911
+Ede;Geriater;Bogers-de Reus, R. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Fysiotherapeut;Cevat, D. - Lijf en Leven Ede;Lijf en Leven Ede, Ede;52.0333503,5.654571;Cevat, D. - Lijf en Leven Veenendaal;Lijf en Leven Veenendaal, Veenendaal;52.0322213,5.5617666
+Ede;Fysiotherapeut, Podoloog;Gerritsen, H. - Fysiotherapie en Podologie Gerritsen, Fysiotherapie;Fysiotherapie en Podologie Gerritsen, Fysiotherapie, Ede;52.024232,5.6319694;Gerritsen, H. - Fysiotherapie en Podologie Gerritsen, Podologie;Fysiotherapie en Podologie Gerritsen, Podologie, Ede;52.0243938,5.6317738
+Ede;Anesthesioloog;Jap-A-Joe, H.K. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Ergotherapeut;Koops, L. - Ergodus;Ergodus, Ede;52.0332228,5.661683
+Ede;Nucleair geneeskundige;Le, C. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Psychotherapeut;Miranda, C.E. de - Psycholoog, Diagnostiek en Psychotherapie (PDP Ede);Psycholoog, Diagnostiek en Psychotherapie (PDP Ede), Ede;52.0467335,5.6759691
+Ede;Arts Verstandelijk gehandicapten;Rensen, J.H.M. - Karakter, locatie Ede;Karakter, locatie Ede, Ede;52.0195426,5.6825005;Rensen, J.H.M. - SeysCentra;SeysCentra, Malden;51.779793,5.8544764
+Ede;Diëtist;Scholten, I. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Apotheker;Steen, M. van der - Apotheek Veldhuizen;Apotheek Veldhuizen, Ede;52.0426047,5.6431456
+Ede;Diëtist;Vasse, E. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Ede;Psycholoog;Walraven, L.C. - Psychologenpraktijk Walraven;Psychologenpraktijk Walraven, Ede;52.0252002,5.6311819
+Ede;Anesthesioloog;Zwaan, P.J. - Ziekenhuis Gelderse Vallei;Ziekenhuis Gelderse Vallei, Ede;52.0224308,5.6456485
+Nijkerk;Fysiotherapeut;Ruitenbeek-Vierwind, J.C. van de - Fysiotherapie De Nije Veste;Fysiotherapie De Nije Veste, Nijkerk;52.2236838,5.4914389
+Nijkerk;Fysiotherapeut;Cozijnsen, T. - Fysiotherapie Corlaer;Fysiotherapie Corlaer, Nijkerk;52.2095628,5.4634772
+Nijkerk;Psycholoog;Ham-Willemsen, G. - Gerrie Ham praktijk voor psychosociale hulp;Gerrie Ham praktijk voor psychosociale hulp, Nijkerk;52.2296494,5.4857841
+Nijkerk;Mondhygiënist;Lozeman-Elgersma, M. - Marodent Centrum voor Tandheelkunde;Marodent Centrum voor Tandheelkunde, Nijkerk;52.2150489,5.4735531
+Nijkerk;Psycholoog;Robbesom, R.M. - Eerstelijns Psychologenpraktijk;Eerstelijns Psychologenpraktijk, Nijkerk;52.2095628,5.4634772
+Nijkerk;Mondhygiënist;Voortman, M.D. - Tandartspraktijk Corlaer;Tandartspraktijk Corlaer, Nijkerk;52.2158359,5.4732427
+Nijkerk;Tandarts;Zwiers, A. - Tandartsenpraktijk Zwiers & De Boer;Tandartsenpraktijk Zwiers & De Boer, Nijkerk;52.2257047,5.4779518
+Renkum;Specialist Ouderengeneeskunde;Geelink, P.J.C. - Zinzia Zorggroep, Verpleeghuis De Rijnhof;Zinzia Zorggroep, Verpleeghuis De Rijnhof, Renkum;51.9721848,5.7319162;Geelink, P.J.C. - Zinzia Zorggroep, Verpleeghuis Rumah Kita;Zinzia Zorggroep, Verpleeghuis Rumah Kita, Wageningen;51.97075,5.657341
+Renkum;Psycholoog;Zweers, H.P. - Woonzorgnet;Woonzorgnet, Renkum;0,0
+Rheden;Ergotherapeut;Plas, L.I.C. van der - Fysiotherapie en ergotherapie Rheden-Giesbeek, locatie Rheden;Fysiotherapie en ergotherapie Rheden-Giesbeek, locatie Rheden, Rheden;52.0057202,6.0267531;Plas, L.I.C. van der - Fysiotherapie en ergotherapie Rheden-Giesbeek, locatie Giesbeek;Fysiotherapie en ergotherapie Rheden-Giesbeek, locatie Giesbeek, Giesbeek;51.9935268,6.068693
+Rheden;Huidtherapeut;Wouters, G. - Huid Oedeem Zorg - Rheden;Huid Oedeem Zorg - Rheden, Rheden;52.0055039,6.0232931
+Scherpenzeel;Mondhygiënist;Supheert, W.C. - Mondzorg Supheert Scherpenzeel;Mondzorg Supheert Scherpenzeel, Scherpenzeel;52.0780601,5.4848618;Supheert, W.C. - Mondzorg Supheert  Kesteren;Mondzorg Supheert  Kesteren, Kesteren;51.9346458,5.5733394
+Scherpenzeel;Tandarts;Zwieten, E.W. van - Tandartspraktijk Scherpenzeel;Tandartspraktijk Scherpenzeel, Scherpenzeel;52.0811053,5.4750982;Zwieten, E.W. van - Van Rij Mondzorg;Van Rij Mondzorg, Veenendaal;52.0240693,5.5494736
+Wageningen;Verloskundige;Laan, N.M. van der - De Bakermat, Praktijk voor verloskunde, locatie Wageningen;De Bakermat, Praktijk voor verloskunde, locatie Wageningen, Wageningen;51.9642115,5.663049;Laan, N.M. van der - De Bakermat, Praktijk voor verloskunde, locatie Bennekom;De Bakermat, Praktijk voor verloskunde, locatie Bennekom, Bennekom;51.9971394,5.6719378
+Wageningen;Tandarts;Kruijt, P.G. - Praktijk voor Tandheelkunde en Implantologie Wageningen;Praktijk voor Tandheelkunde en Implantologie Wageningen, Wageningen;51.9777639,5.6560733
+Wageningen;Huisarts;Nicolay, N.C.M. - Huisartspraktijk Nicolay;Huisartspraktijk Nicolay, Wageningen;51.975425,5.6511571
+Wageningen;Fysiotherapeut;Bever, M.A.J.C. de - GGZ Centrum Wageningen;GGZ Centrum Wageningen, Wageningen;51.9667907,5.6707916
+Wageningen;Specialist Ouderengeneeskunde;Geelink, P.J.C. - Zinzia Zorggroep, Verpleeghuis Rumah Kita;Zinzia Zorggroep, Verpleeghuis Rumah Kita, Wageningen;51.97075,5.657341;Geelink, P.J.C. - Zinzia Zorggroep, Verpleeghuis Oranje Nassau's Oord;Zinzia Zorggroep, Verpleeghuis Oranje Nassau's Oord, Wageningen;51.9741929,5.7160472
+Wageningen;Diëtist;Mentink, C. - Diëtistenpraktijk Di-eetgezond Wageningen;Diëtistenpraktijk Di-eetgezond Wageningen, Wageningen;51.9765709,5.6666035
+Wageningen;Fysiotherapeut;Rewinkel, C.J.H. - Fysiotherapiepraktijk Groothuis;Fysiotherapiepraktijk Groothuis, Wageningen;51.9623398,5.6562282
+Wageningen;Oefentherapeut;Vaessen, K.C.M. - Praktijk Oefentherapie Karin Vaessen;Praktijk Oefentherapie Karin Vaessen, Wageningen;51.9766645,5.6719602
+Westervoort;Fysiotherapeut;Weerd-Hoogland, Y.J. van - Praktijk voor Fysiotherapie en Acupunctuur Holl;Praktijk voor Fysiotherapie en Acupunctuur Holl, Westervoort;51.9529546,5.9711995
+Westervoort;Logopedist;Schuak-Rozeman, T. - Logopedie Rozeman;Logopedie Rozeman, Westervoort;51.9624667,5.9597705
+Westervoort;Tandarts;Pijnenburg, H.A. - Tandcentrum Westervoort;Tandcentrum Westervoort, Westervoort;51.9599044,5.9663284
+Westervoort;Logopedist;Wessels-de Heus, G. - Mw. G. Wessels-de Heus en W. Wessels / Logopedisten;Mw. G. Wessels-de Heus en W. Wessels / Logopedisten, Westervoort;51.9551923,5.9662078
+Zevenaar;Verloskundige;Koopman, M.C. - Verloskundigen Zevenaar en Rijnwaarden;Verloskundigen Zevenaar en Rijnwaarden, Zevenaar;51.9315602,6.0761194
+Zevenaar;Fysiotherapeut;Matse, L.L.F. - Fysio-Z;Fysio-Z, Zevenaar;51.9315424,6.07609
+Zevenaar;Podotherapeut;Serree, M.B.P. - Podotherapie Serrée, locatie Zevenaar, Oude Doesburgseweg;Podotherapie Serrée, locatie Zevenaar, Oude Doesburgseweg, Zevenaar;51.9315424,6.07609;Serree, M.B.P. - Podotherapie Serrée, locatie Zevenaar, Rijnstate;Podotherapie Serrée, locatie Zevenaar, Rijnstate, Zevenaar;51.9421701,6.0693739
+Zevenaar;Fysiotherapeut;Hoogeveen, M. - Romei Therapie en Training;Romei Therapie en Training, Zevenaar;51.9260392,6.0733285
+Zevenaar;Huisarts;Claessen, L.A.J. - Huisartspraktijk Claessen;Huisartspraktijk Claessen, Zevenaar;51.9250726,6.0711496
+Zevenaar;Fysiotherapeut;Buiting, F.G.L. - Romei Therapie en Training;Romei Therapie en Training, Zevenaar;51.9260392,6.0733285
+Zevenaar;Logopedist;Jansen, N. - Logopediepraktijk B. Berndsen en A. Florian, locatie Zevenaar;Logopediepraktijk B. Berndsen en A. Florian, locatie Zevenaar, Zevenaar;51.9336136,6.073897;Jansen, N. - Logopediepraktijk B. Berndsen en A. Florian, locatie Babberich;Logopediepraktijk B. Berndsen en A. Florian, locatie Babberich, Babberich;51.905671,6.118022
+Zevenaar;Diëtist;Roelse, J. - Acupunctuur- en Diëtistenpraktijk Joni Roelse;Acupunctuur- en Diëtistenpraktijk Joni Roelse, Zevenaar;51.9276535,6.0724828
