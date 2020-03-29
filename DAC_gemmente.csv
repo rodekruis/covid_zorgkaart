@@ -1,0 +1,356 @@
+statcod;jrsttcd;statnam;naam;dac_cod;dac_id
+GM0277;2020GM0277;Rozendaal;Gelderland-Midden;GM;7
+GM0279;2020GM0279;Scherpenzeel;Gelderland-Midden;GM;7
+GM0289;2020GM0289;Wageningen;Gelderland-Midden;GM;7
+GM0293;2020GM0293;Westervoort;Gelderland-Midden;GM;7
+GM0299;2020GM0299;Zevenaar;Gelderland-Midden;GM;7
+GM1705;2020GM1705;Lingewaard;Gelderland-Midden;GM;7
+GM1734;2020GM1734;Overbetuwe;Gelderland-Midden;GM;7
+GM0209;2020GM0209;Beuningen;Gelderland-Zuid;GZ;8
+GM0214;2020GM0214;Buren;Gelderland-Zuid;GZ;8
+GM0216;2020GM0216;Culemborg;Gelderland-Zuid;GZ;8
+GM0225;2020GM0225;Druten;Gelderland-Zuid;GZ;8
+GM0252;2020GM0252;Heumen;Gelderland-Zuid;GZ;8
+GM0263;2020GM0263;Maasdriel;Gelderland-Zuid;GZ;8
+GM1930;2020GM1930;Nissewaard;Rotterdam-Rijnmond;RR;17
+GM0482;2020GM0482;Alblasserdam;Zuid-Holland-Zuid;ZHZ;18
+GM0505;2020GM0505;Dordrecht;Zuid-Holland-Zuid;ZHZ;18
+GM0512;2020GM0512;Gorinchem;Zuid-Holland-Zuid;ZHZ;18
+GM0523;2020GM0523;Hardinxveld-Giessendam;Zuid-Holland-Zuid;ZHZ;18
+GM0531;2020GM0531;Hendrik-Ido-Ambacht;Zuid-Holland-Zuid;ZHZ;18
+GM0590;2020GM0590;Papendrecht;Zuid-Holland-Zuid;ZHZ;18
+GM0610;2020GM0610;Sliedrecht;Zuid-Holland-Zuid;ZHZ;18
+GM0642;2020GM0642;Zwijndrecht;Zuid-Holland-Zuid;ZHZ;18
+GM1963;2020GM1963;Hoeksche Waard;Zuid-Holland-Zuid;ZHZ;18
+GM1978;2020GM1978;Molenlanden;Zuid-Holland-Zuid;ZHZ;18
+GM0654;2020GM0654;Borsele;Zeeland;ZEE;19
+GM0664;2020GM0664;Goes;Zeeland;ZEE;19
+GM0677;2020GM0677;Hulst;Zeeland;ZEE;19
+GM0678;2020GM0678;Kapelle;Zeeland;ZEE;19
+GM0687;2020GM0687;Middelburg;Zeeland;ZEE;19
+GM0715;2020GM0715;Terneuzen;Zeeland;ZEE;19
+GM0716;2020GM0716;Tholen;Zeeland;ZEE;19
+GM0717;2020GM0717;Veere;Zeeland;ZEE;19
+GM0718;2020GM0718;Vlissingen;Zeeland;ZEE;19
+GM1676;2020GM1676;Schouwen-Duiveland;Zeeland;ZEE;19
+GM1695;2020GM1695;Noord-Beveland;Zeeland;ZEE;19
+GM1714;2020GM1714;Sluis;Zeeland;ZEE;19
+GM0744;2020GM0744;Baarle-Nassau;Midden- en West-Brabant;MWB;20
+GM0748;2020GM0748;Bergen op Zoom;Midden- en West-Brabant;MWB;20
+GM0758;2020GM0758;Breda;Midden- en West-Brabant;MWB;20
+GM0766;2020GM0766;Dongen;Midden- en West-Brabant;MWB;20
+GM0777;2020GM0777;Etten-Leur;Midden- en West-Brabant;MWB;20
+GM0779;2020GM0779;Geertruidenberg;Midden- en West-Brabant;MWB;20
+GM0784;2020GM0784;Gilze en Rijen;Midden- en West-Brabant;MWB;20
+GM0785;2020GM0785;Goirle;Midden- en West-Brabant;MWB;20
+GM0798;2020GM0798;Hilvarenbeek;Midden- en West-Brabant;MWB;20
+GM0809;2020GM0809;Loon op Zand;Midden- en West-Brabant;MWB;20
+GM0824;2020GM0824;Oisterwijk;Midden- en West-Brabant;MWB;20
+GM0826;2020GM0826;Oosterhout;Midden- en West-Brabant;MWB;20
+GM0840;2020GM0840;Rucphen;Midden- en West-Brabant;MWB;20
+GM0851;2020GM0851;Steenbergen;Midden- en West-Brabant;MWB;20
+GM0855;2020GM0855;Tilburg;Midden- en West-Brabant;MWB;20
+GM0867;2020GM0867;Waalwijk;Midden- en West-Brabant;MWB;20
+GM0873;2020GM0873;Woensdrecht;Midden- en West-Brabant;MWB;20
+GM0879;2020GM0879;Zundert;Midden- en West-Brabant;MWB;20
+GM1655;2020GM1655;Halderberge;Midden- en West-Brabant;MWB;20
+GM1674;2020GM1674;Roosendaal;Midden- en West-Brabant;MWB;20
+GM1709;2020GM1709;Moerdijk;Midden- en West-Brabant;MWB;20
+GM1719;2020GM1719;Drimmelen;Midden- en West-Brabant;MWB;20
+GM1723;2020GM1723;Alphen-Chaam;Midden- en West-Brabant;MWB;20
+GM1959;2020GM1959;Altena;Midden- en West-Brabant;MWB;20
+GM0743;2020GM0743;Asten;Brabant-Zuidoost;BZ;22
+GM0753;2020GM0753;Best;Brabant-Zuidoost;BZ;22
+GM0762;2020GM0762;Deurne;Brabant-Zuidoost;BZ;22
+GM0770;2020GM0770;Eersel;Brabant-Zuidoost;BZ;22
+GM0772;2020GM0772;Eindhoven;Brabant-Zuidoost;BZ;22
+GM0794;2020GM0794;Helmond;Brabant-Zuidoost;BZ;22
+GM0820;2020GM0820;Nuenen, Gerwen en Nederwetten;Brabant-Zuidoost;BZ;22
+GM0823;2020GM0823;Oirschot;Brabant-Zuidoost;BZ;22
+GM0847;2020GM0847;Someren;Brabant-Zuidoost;BZ;22
+GM0848;2020GM0848;Son en Breugel;Brabant-Zuidoost;BZ;22
+GM0858;2020GM0858;Valkenswaard;Brabant-Zuidoost;BZ;22
+GM0861;2020GM0861;Veldhoven;Brabant-Zuidoost;BZ;22
+GM0866;2020GM0866;Waalre;Brabant-Zuidoost;BZ;22
+GM1652;2020GM1652;Gemert-Bakel;Brabant-Zuidoost;BZ;22
+GM1658;2020GM1658;Heeze-Leende;Brabant-Zuidoost;BZ;22
+GM1659;2020GM1659;Laarbeek;Brabant-Zuidoost;BZ;22
+GM1667;2020GM1667;Reusel-De Mierden;Brabant-Zuidoost;BZ;22
+GM1706;2020GM1706;Cranendonck;Brabant-Zuidoost;BZ;22
+GM1724;2020GM1724;Bergeijk;Brabant-Zuidoost;BZ;22
+GM1728;2020GM1728;Bladel;Brabant-Zuidoost;BZ;22
+GM1771;2020GM1771;Geldrop-Mierlo;Brabant-Zuidoost;BZ;22
+GM0889;2020GM0889;Beesel;Limburg-Noord;NML;23
+GM0893;2020GM0893;Bergen (L.);Limburg-Noord;NML;23
+GM0907;2020GM0907;Gennep;Limburg-Noord;NML;23
+GM0944;2020GM0944;Mook en Middelaar;Limburg-Noord;NML;23
+GM0946;2020GM0946;Nederweert;Limburg-Noord;NML;23
+GM0957;2020GM0957;Roermond;Limburg-Noord;NML;23
+GM0983;2020GM0983;Venlo;Limburg-Noord;NML;23
+GM0984;2020GM0984;Venray;Limburg-Noord;NML;23
+GM0988;2020GM0988;Weert;Limburg-Noord;NML;23
+GM1507;2020GM1507;Horst aan de Maas;Limburg-Noord;NML;23
+GM1640;2020GM1640;Leudal;Limburg-Noord;NML;23
+GM1641;2020GM1641;Maasgouw;Limburg-Noord;NML;23
+GM1669;2020GM1669;Roerdalen;Limburg-Noord;NML;23
+GM1711;2020GM1711;Echt-Susteren;Limburg-Noord;NML;23
+GM1894;2020GM1894;Peel en Maas;Limburg-Noord;NML;23
+GM0882;2020GM0882;Landgraaf;Zuid-Limburg;ZL;24
+GM0888;2020GM0888;Beek;Zuid-Limburg;ZL;24
+GM0899;2020GM0899;Brunssum;Zuid-Limburg;ZL;24
+GM0917;2020GM0917;Heerlen;Zuid-Limburg;ZL;24
+GM0928;2020GM0928;Kerkrade;Zuid-Limburg;ZL;24
+GM0935;2020GM0935;Maastricht;Zuid-Limburg;ZL;24
+GM0938;2020GM0938;Meerssen;Zuid-Limburg;ZL;24
+GM0965;2020GM0965;Simpelveld;Zuid-Limburg;ZL;24
+GM0971;2020GM0971;Stein;Zuid-Limburg;ZL;24
+GM0981;2020GM0981;Vaals;Zuid-Limburg;ZL;24
+GM0986;2020GM0986;Voerendaal;Zuid-Limburg;ZL;24
+GM0994;2020GM0994;Valkenburg aan de Geul;Zuid-Limburg;ZL;24
+GM1729;2020GM1729;Gulpen-Wittem;Zuid-Limburg;ZL;24
+GM1883;2020GM1883;Sittard-Geleen;Zuid-Limburg;ZL;24
+GM1903;2020GM1903;Eijsden-Margraten;Zuid-Limburg;ZL;24
+GM1954;2020GM1954;Beekdaelen;Zuid-Limburg;ZL;24
+GM0703;2020GM0703;Reimerswaal;;;
+GM0268;2020GM0268;Nijmegen;Gelderland-Zuid;GZ;8
+GM0281;2020GM0281;Tiel;Gelderland-Zuid;GZ;8
+GM0296;2020GM0296;Wijchen;Gelderland-Zuid;GZ;8
+GM0297;2020GM0297;Zaltbommel;Gelderland-Zuid;GZ;8
+GM0668;2020GM0668;West Maas en Waal;Gelderland-Zuid;GZ;8
+GM1740;2020GM1740;Neder-Betuwe;Gelderland-Zuid;GZ;8
+GM1945;2020GM1945;Berg en Dal;Gelderland-Zuid;GZ;8
+GM1960;2020GM1960;West Betuwe;Gelderland-Zuid;GZ;8
+GM0307;2020GM0307;Amersfoort;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0308;2020GM0308;Baarn;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0310;2020GM0310;De Bilt;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0312;2020GM0312;Bunnik;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0313;2020GM0313;Bunschoten;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0317;2020GM0317;Eemnes;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0321;2020GM0321;Houten;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0327;2020GM0327;Leusden;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0331;2020GM0331;Lopik;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0335;2020GM0335;Montfoort;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0339;2020GM0339;Renswoude;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0340;2020GM0340;Rhenen;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0342;2020GM0342;Soest;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0344;2020GM0344;Utrecht;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0345;2020GM0345;Veenendaal;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0351;2020GM0351;Woudenberg;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0352;2020GM0352;Wijk bij Duurstede;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0353;2020GM0353;IJsselstein;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0355;2020GM0355;Zeist;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0356;2020GM0356;Nieuwegein;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0376;2020GM0376;Blaricum;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0402;2020GM0402;Hilversum;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0406;2020GM0406;Huizen;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0417;2020GM0417;Laren;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0457;2020GM0457;Weesp;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0589;2020GM0589;Oudewater;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0632;2020GM0632;Woerden;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0736;2020GM0736;De Ronde Venen;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM1581;2020GM1581;Utrechtse Heuvelrug;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM1696;2020GM1696;Wijdemeren;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM1904;2020GM1904;Stichtse Vecht;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM1942;2020GM1942;Gooise Meren;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM1961;2020GM1961;Vijfheerenlanden;Utrecht/Gooi en Vechtstreek;UTR;Sep/14
+GM0034;2020GM0034;Almere;Flevoland;FLE;25
+GM0050;2020GM0050;Zeewolde;Flevoland;FLE;25
+GM0171;2020GM0171;Noordoostpolder;Flevoland;FLE;25
+GM0184;2020GM0184;Urk;Flevoland;FLE;25
+GM0303;2020GM0303;Dronten;Flevoland;FLE;25
+GM0995;2020GM0995;Lelystad;Flevoland;FLE;25
+GM0361;2020GM0361;Alkmaar;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0370;2020GM0370;Beemster;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0373;2020GM0373;Bergen (NH.);Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0383;2020GM0383;Castricum;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0385;2020GM0385;Edam-Volendam;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0388;2020GM0388;Enkhuizen;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0398;2020GM0398;Heerhugowaard;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0399;2020GM0399;Heiloo;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0400;2020GM0400;Den Helder;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0405;2020GM0405;Hoorn;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0415;2020GM0415;Landsmeer;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0416;2020GM0416;Langedijk;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0420;2020GM0420;Medemblik;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0431;2020GM0431;Oostzaan;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0432;2020GM0432;Opmeer;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0439;2020GM0439;Purmerend;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0441;2020GM0441;Schagen;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0448;2020GM0448;Texel;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0479;2020GM0479;Zaanstad;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0498;2020GM0498;Drechterland;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0532;2020GM0532;Stede Broec;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0852;2020GM0852;Waterland;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0880;2020GM0880;Wormerland;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM1598;2020GM1598;Koggenland;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM1911;2020GM1911;Hollands Kroon;Noord-Holland-Noord/Zaanstreek-Waterland;NHN;10/Nov
+GM0375;2020GM0375;Beverwijk;Kennemerland;KNM;12
+GM0377;2020GM0377;Bloemendaal;Kennemerland;KNM;12
+GM0392;2020GM0392;Haarlem;Kennemerland;KNM;12
+GM0394;2020GM0394;Haarlemmermeer;Kennemerland;KNM;12
+GM0396;2020GM0396;Heemskerk;Kennemerland;KNM;12
+GM0397;2020GM0397;Heemstede;Kennemerland;KNM;12
+GM0450;2020GM0450;Uitgeest;Kennemerland;KNM;12
+GM0453;2020GM0453;Velsen;Kennemerland;KNM;12
+GM0473;2020GM0473;Zandvoort;Kennemerland;KNM;12
+GM0358;2020GM0358;Aalsmeer;Amsterdam-Amstelland;AA;13
+GM0362;2020GM0362;Amstelveen;Amsterdam-Amstelland;AA;13
+GM0363;2020GM0363;Amsterdam;Amsterdam-Amstelland;AA;13
+GM0384;2020GM0384;Diemen;Amsterdam-Amstelland;AA;13
+GM0437;2020GM0437;Ouder-Amstel;Amsterdam-Amstelland;AA;13
+GM0451;2020GM0451;Uithoorn;Amsterdam-Amstelland;AA;13
+GM0503;2020GM0503;Delft;Haaglanden;UTR;15
+GM0518;2020GM0518;'s-Gravenhage;Haaglanden;UTR;15
+GM0603;2020GM0603;Rijswijk;Haaglanden;UTR;15
+GM0629;2020GM0629;Wassenaar;Haaglanden;UTR;15
+GM0637;2020GM0637;Zoetermeer;Haaglanden;UTR;15
+GM1783;2020GM1783;Westland;Haaglanden;UTR;15
+GM1842;2020GM1842;Midden-Delfland;Haaglanden;UTR;15
+GM1916;2020GM1916;Leidschendam-Voorburg;Haaglanden;UTR;15
+GM1926;2020GM1926;Pijnacker-Nootdorp;Haaglanden;UTR;15
+GM0484;2020GM0484;Alphen aan den Rijn;Hollands Midden;HAA;16
+GM0513;2020GM0513;Gouda;Hollands Midden;HAA;16
+GM0534;2020GM0534;Hillegom;Hollands Midden;HAA;16
+GM0537;2020GM0537;Katwijk;Hollands Midden;HAA;16
+GM0546;2020GM0546;Leiden;Hollands Midden;HAA;16
+GM0547;2020GM0547;Leiderdorp;Hollands Midden;HAA;16
+GM0553;2020GM0553;Lisse;Hollands Midden;HAA;16
+GM0569;2020GM0569;Nieuwkoop;Hollands Midden;HAA;16
+GM0575;2020GM0575;Noordwijk;Hollands Midden;HAA;16
+GM0579;2020GM0579;Oegstgeest;Hollands Midden;HAA;16
+GM0626;2020GM0626;Voorschoten;Hollands Midden;HAA;16
+GM0627;2020GM0627;Waddinxveen;Hollands Midden;HAA;16
+GM0638;2020GM0638;Zoeterwoude;Hollands Midden;HAA;16
+GM1525;2020GM1525;Teylingen;Hollands Midden;HAA;16
+GM1884;2020GM1884;Kaag en Braassem;Hollands Midden;HAA;16
+GM1892;2020GM1892;Zuidplas;Hollands Midden;HAA;16
+GM1901;2020GM1901;Bodegraven-Reeuwijk;Hollands Midden;HAA;16
+GM1931;2020GM1931;Krimpenerwaard;Hollands Midden;HAA;16
+GM0489;2020GM0489;Barendrecht;Rotterdam-Rijnmond;RR;17
+GM0501;2020GM0501;Brielle;Rotterdam-Rijnmond;RR;17
+GM0502;2020GM0502;Capelle aan den IJssel;Rotterdam-Rijnmond;RR;17
+GM0530;2020GM0530;Hellevoetsluis;Rotterdam-Rijnmond;RR;17
+GM0542;2020GM0542;Krimpen aan den IJssel;Rotterdam-Rijnmond;RR;17
+GM0556;2020GM0556;Maassluis;Rotterdam-Rijnmond;RR;17
+GM0597;2020GM0597;Ridderkerk;Rotterdam-Rijnmond;RR;17
+GM0599;2020GM0599;Rotterdam;Rotterdam-Rijnmond;RR;17
+GM0606;2020GM0606;Schiedam;Rotterdam-Rijnmond;RR;17
+GM0613;2020GM0613;Albrandswaard;Rotterdam-Rijnmond;RR;17
+GM0614;2020GM0614;Westvoorne;Rotterdam-Rijnmond;RR;17
+GM0622;2020GM0622;Vlaardingen;Rotterdam-Rijnmond;RR;17
+GM1621;2020GM1621;Lansingerland;Rotterdam-Rijnmond;RR;17
+GM1924;2020GM1924;Goeree-Overflakkee;Rotterdam-Rijnmond;RR;17
+GM0755;2020GM0755;Boekel;Brabant-Noord;BN;21
+GM0756;2020GM0756;Boxmeer;Brabant-Noord;BN;21
+GM0757;2020GM0757;Boxtel;Brabant-Noord;BN;21
+GM0786;2020GM0786;Grave;Brabant-Noord;BN;21
+GM0788;2020GM0788;Haaren;Brabant-Noord;BN;21
+GM0796;2020GM0796;'s-Hertogenbosch;Brabant-Noord;BN;21
+GM0797;2020GM0797;Heusden;Brabant-Noord;BN;21
+GM0815;2020GM0815;Mill en Sint Hubert;Brabant-Noord;BN;21
+GM0828;2020GM0828;Oss;Brabant-Noord;BN;21
+GM0845;2020GM0845;Sint-Michielsgestel;Brabant-Noord;BN;21
+GM0856;2020GM0856;Uden;Brabant-Noord;BN;21
+GM0865;2020GM0865;Vught;Brabant-Noord;BN;21
+GM1684;2020GM1684;Cuijk;Brabant-Noord;BN;21
+GM1685;2020GM1685;Landerd;Brabant-Noord;BN;21
+GM1702;2020GM1702;Sint Anthonis;Brabant-Noord;BN;21
+GM1721;2020GM1721;Bernheze;Brabant-Noord;BN;21
+GM1948;2020GM1948;Meierijstad;Brabant-Noord;BN;21
+GM0003;2020GM0003;Appingedam;Groningen;GRO;1
+GM0010;2020GM0010;Delfzijl;Groningen;GRO;1
+GM0014;2020GM0014;Groningen;Groningen;GRO;1
+GM0024;2020GM0024;Loppersum;Groningen;GRO;1
+GM0037;2020GM0037;Stadskanaal;Groningen;GRO;1
+GM0047;2020GM0047;Veendam;Groningen;GRO;1
+GM0765;2020GM0765;Pekela;Groningen;GRO;1
+GM1895;2020GM1895;Oldambt;Groningen;GRO;1
+GM1950;2020GM1950;Westerwolde;Groningen;GRO;1
+GM1952;2020GM1952;Midden-Groningen;Groningen;GRO;1
+GM1966;2020GM1966;Het Hogeland;Groningen;GRO;1
+GM1969;2020GM1969;Westerkwartier;Groningen;GRO;1
+GM0059;2020GM0059;Achtkarspelen;Fryslan;FRI;2
+GM0060;2020GM0060;Ameland;Fryslan;FRI;2
+GM0072;2020GM0072;Harlingen;Fryslan;FRI;2
+GM0074;2020GM0074;Heerenveen;Fryslan;FRI;2
+GM0080;2020GM0080;Leeuwarden;Fryslan;FRI;2
+GM0085;2020GM0085;Ooststellingwerf;Fryslan;FRI;2
+GM0086;2020GM0086;Opsterland;Fryslan;FRI;2
+GM0088;2020GM0088;Schiermonnikoog;Fryslan;FRI;2
+GM0090;2020GM0090;Smallingerland;Fryslan;FRI;2
+GM0093;2020GM0093;Terschelling;Fryslan;FRI;2
+GM0096;2020GM0096;Vlieland;Fryslan;FRI;2
+GM0098;2020GM0098;Weststellingwerf;Fryslan;FRI;2
+GM0737;2020GM0737;Tytsjerksteradiel;Fryslan;FRI;2
+GM1891;2020GM1891;Dantumadiel;Fryslan;FRI;2
+GM1900;2020GM1900;SÃºdwest-FryslÃ¢n;Fryslan;FRI;2
+GM1940;2020GM1940;De Fryske Marren;Fryslan;FRI;2
+GM1949;2020GM1949;Waadhoeke;Fryslan;FRI;2
+GM1970;2020GM1970;Noardeast-FryslÃ¢n;Fryslan;FRI;2
+GM0106;2020GM0106;Assen;Drenthe;DRE;3
+GM0109;2020GM0109;Coevorden;Drenthe;DRE;3
+GM0114;2020GM0114;Emmen;Drenthe;DRE;3
+GM0118;2020GM0118;Hoogeveen;Drenthe;DRE;3
+GM0119;2020GM0119;Meppel;Drenthe;DRE;3
+GM1680;2020GM1680;Aa en Hunze;Drenthe;DRE;3
+GM1681;2020GM1681;Borger-Odoorn;Drenthe;DRE;3
+GM1690;2020GM1690;De Wolden;Drenthe;DRE;3
+GM1699;2020GM1699;Noordenveld;Drenthe;DRE;3
+GM1701;2020GM1701;Westerveld;Drenthe;DRE;3
+GM1730;2020GM1730;Tynaarlo;Drenthe;DRE;3
+GM1731;2020GM1731;Midden-Drenthe;Drenthe;DRE;3
+GM0148;2020GM0148;Dalfsen;IJsselland;IJSS;4
+GM0150;2020GM0150;Deventer;IJsselland;IJSS;4
+GM0160;2020GM0160;Hardenberg;IJsselland;IJSS;4
+GM0166;2020GM0166;Kampen;IJsselland;IJSS;4
+GM0175;2020GM0175;Ommen;IJsselland;IJSS;4
+GM0177;2020GM0177;Raalte;IJsselland;IJSS;4
+GM0180;2020GM0180;Staphorst;IJsselland;IJSS;4
+GM0193;2020GM0193;Zwolle;IJsselland;IJSS;4
+GM1708;2020GM1708;Steenwijkerland;IJsselland;IJSS;4
+GM1773;2020GM1773;Olst-Wijhe;IJsselland;IJSS;4
+GM1896;2020GM1896;Zwartewaterland;IJsselland;IJSS;4
+GM0141;2020GM0141;Almelo;Twente;TWE;5
+GM0147;2020GM0147;Borne;Twente;TWE;5
+GM0153;2020GM0153;Enschede;Twente;TWE;5
+GM0158;2020GM0158;Haaksbergen;Twente;TWE;5
+GM0163;2020GM0163;Hellendoorn;Twente;TWE;5
+GM0164;2020GM0164;Hengelo;Twente;TWE;5
+GM0168;2020GM0168;Losser;Twente;TWE;5
+GM0173;2020GM0173;Oldenzaal;Twente;TWE;5
+GM0183;2020GM0183;Tubbergen;Twente;TWE;5
+GM0189;2020GM0189;Wierden;Twente;TWE;5
+GM1700;2020GM1700;Twenterand;Twente;TWE;5
+GM1735;2020GM1735;Hof van Twente;Twente;TWE;5
+GM1742;2020GM1742;Rijssen-Holten;Twente;TWE;5
+GM1774;2020GM1774;Dinkelland;Twente;TWE;5
+GM0197;2020GM0197;Aalten;Noord- en Oost-Gelderland;NOG;6
+GM0200;2020GM0200;Apeldoorn;Noord- en Oost-Gelderland;NOG;6
+GM0213;2020GM0213;Brummen;Noord- en Oost-Gelderland;NOG;6
+GM0222;2020GM0222;Doetinchem;Noord- en Oost-Gelderland;NOG;6
+GM0230;2020GM0230;Elburg;Noord- en Oost-Gelderland;NOG;6
+GM0232;2020GM0232;Epe;Noord- en Oost-Gelderland;NOG;6
+GM0233;2020GM0233;Ermelo;Noord- en Oost-Gelderland;NOG;6
+GM0243;2020GM0243;Harderwijk;Noord- en Oost-Gelderland;NOG;6
+GM0244;2020GM0244;Hattem;Noord- en Oost-Gelderland;NOG;6
+GM0246;2020GM0246;Heerde;Noord- en Oost-Gelderland;NOG;6
+GM0262;2020GM0262;Lochem;Noord- en Oost-Gelderland;NOG;6
+GM0269;2020GM0269;Oldebroek;Noord- en Oost-Gelderland;NOG;6
+GM0273;2020GM0273;Putten;Noord- en Oost-Gelderland;NOG;6
+GM0285;2020GM0285;Voorst;Noord- en Oost-Gelderland;NOG;6
+GM0294;2020GM0294;Winterswijk;Noord- en Oost-Gelderland;NOG;6
+GM0301;2020GM0301;Zutphen;Noord- en Oost-Gelderland;NOG;6
+GM0302;2020GM0302;Nunspeet;Noord- en Oost-Gelderland;NOG;6
+GM1509;2020GM1509;Oude IJsselstreek;Noord- en Oost-Gelderland;NOG;6
+GM1586;2020GM1586;Oost Gelre;Noord- en Oost-Gelderland;NOG;6
+GM1859;2020GM1859;Berkelland;Noord- en Oost-Gelderland;NOG;6
+GM1876;2020GM1876;Bronckhorst;Noord- en Oost-Gelderland;NOG;6
+GM1955;2020GM1955;Montferland;Noord- en Oost-Gelderland;NOG;6
+GM0202;2020GM0202;Arnhem;Gelderland-Midden;GM;7
+GM0203;2020GM0203;Barneveld;Gelderland-Midden;GM;7
+GM0221;2020GM0221;Doesburg;Gelderland-Midden;GM;7
+GM0226;2020GM0226;Duiven;Gelderland-Midden;GM;7
+GM0228;2020GM0228;Ede;Gelderland-Midden;GM;7
+GM0267;2020GM0267;Nijkerk;Gelderland-Midden;GM;7
+GM0274;2020GM0274;Renkum;Gelderland-Midden;GM;7
+GM0275;2020GM0275;Rheden;Gelderland-Midden;GM;7
