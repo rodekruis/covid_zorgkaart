@@ -15,7 +15,7 @@ import math
 
 
     #%% per city 
-GDC_code = pd.read_csv('C:/Users/ATeklesadik/Rode Kruis/Data Team COVID-19 - [PRJ] Vulnerability and Capacity Analysis/RK capacity/P01_rk_branch_locations/data/GDC_gme.csv',sep=';')
+GDC_code = pd.read_csv('/P01_rk_branch_locations/data/DAC_gemmente.csv',sep=';')
 DAC='Gelderland-Midden'
 list_gemments=GDC_code[GDC_code['naam']==DAC]['statnam'].values
 
@@ -71,7 +71,7 @@ for items in soup.find_all('li', class_="list-group-item"):
             if (len(list1) >1):
                 output1.append(list1)
 #%% save the file   
-fname=open("C:/Users/ATeklesadik/Rode Kruis/Data Team COVID-19 - [PRJ] Vulnerability and Capacity Analysis/RK capacity/P01_rk_branch_locations/data/GDC_content.txt",'w')
+fname=open("/P01_rk_branch_locations/data/DAC_Gelderland-Midden.txt",'w')
 fname.write('"place";"services";"name";"location";"lat-lon"'+'\n')
 for items in output1:
     if (len(items) >2):
