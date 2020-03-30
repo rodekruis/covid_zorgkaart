@@ -94,7 +94,7 @@ service_list=["Verpleeghuis en verzorgingshuis",
 "Huisartsenpraktijk",
 "Zorghotel",
 "Geriatrische revalidatiezorg",
-"ziekenhuis"]
+"Ziekenhuis"]
 
 url='https://www.zorgkaartnederland.nl/overzicht/organisatietypes'
 list1=[]
