@@ -98,6 +98,7 @@ service_list=["Verpleeghuis en verzorgingshuis",
 
 url='https://www.zorgkaartnederland.nl/overzicht/organisatietypes'
 list1=[]
+time_counter=0
 res_s = requests.get(url)
 soup = BeautifulSoup(res_s.content,'html.parser')
 for items1 in soup.find_all('section', class_="content_section"):
@@ -110,7 +111,9 @@ for items1 in soup.find_all('section', class_="content_section"):
                 found = re.search('\((.+?)\)', items3.text.split(' ')[-1]).group(1)
                 pages_no = math.ceil(int(found)/20) if math.ceil(int(found)/20) < 9000 else 1000
                 for elm in range(1,pages_no+1):
-                    time.sleep(1)
+                    if time_counter >1000: # to avoid the get.request error
+                        time.sleep(1)
+                        time_counter=0
                     url_s=link_item +'/pagina{}'.format(elm)
                     res_s = requests.get(url_s)
                     soup_s = BeautifulSoup(res_s.content,'html.parser')
@@ -127,7 +130,7 @@ for items1 in soup.find_all('section', class_="content_section"):
                         #list1.append(item3)                                       
 #%%  for service provide
                         
-fname=open("C:/Users/ATeklesadik/Rode Kruis/Data Team COVID-19 - [PRJ] Vulnerability and Capacity Analysis/RK capacity/P01_rk_branch_locations/data/GDC_content2.txt",'w')
+fname=open("/RK capacity/P01_rk_branch_locations/data/GDC_content2.txt",'w')
 fname.write('"service_type";"service_naam";"Locatie";"lat-lon"'+'\n')
 for items in list1:
         fname.write(items+'\n') 
